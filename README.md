@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @vijaynmishra  
+# 👋 Hi, I’m @Vijay Nath Mishra 
 
 ## 👀 I’m interested in:  
 - Full-stack development, web applications, and software engineering.  
