@@ -1,18 +1,31 @@
-# 👋 Hi, I’m @Vijay Nath Mishra 
+# 👋 Hi, I'm Vijay Nath Mishra
 
-## 👀 I’m interested in:  
-- Full-stack development, web applications, and software engineering.  
+### 🚀 Aspiring Software Developer & Tech Enthusiast
 
-## 🌱 I’m currently learning:  
-- React, Node.js, and database management systems,Python+Django,Sql,Mysql,MongoDB.  
+I am passionate about software development, web technologies, and learning modern tech skills. Currently building my knowledge in full-stack development, databases, AI/ML, and cybersecurity.
 
-## 💞️ I’m looking to collaborate on:  
-- Open-source projects, web development, and programming challenges.  
+## 🌱 Currently Learning
 
-## 📫 How to reach me:  
- LinkedIn: [Vijay Nath Mishra](https://www.linkedin.com/in/vijay-nath-mishra-1b26782a4/)  
+* Python & Django
+* SQL, MySQL & MongoDB
+* React.js & Node.js
+* AI & Machine Learning
+* Cybersecurity Basics
 
+## 💻 Interested In
 
+* Web Development
+* Software Engineering
+* Open Source Projects
+* Problem Solving & Coding Challenges
 
-## ⚡ Fun fact:  
-- I enjoy hiking and have a passion for photography!
+## 🤝 Looking to Collaborate On
+
+* Beginner-friendly Open Source Projects
+* Web Applications
+* Student Developer Communities
+
+## 📫....
+## ⚡ Fun Fact
+
+I enjoy learning new technologies and building projects every day 🚀
